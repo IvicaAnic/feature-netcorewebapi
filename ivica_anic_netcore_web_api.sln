@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ivica_anic_netcore_web_api", "ivica_anic_netcore_web_api\ivica_anic_netcore_web_api.csproj", "{8DC658B6-3AB1-4008-BEB5-94F53737BBFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DC658B6-3AB1-4008-BEB5-94F53737BBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC658B6-3AB1-4008-BEB5-94F53737BBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC658B6-3AB1-4008-BEB5-94F53737BBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC658B6-3AB1-4008-BEB5-94F53737BBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {177ACC2C-F19F-4429-B793-41E179AB8328}
+	EndGlobalSection
+EndGlobal

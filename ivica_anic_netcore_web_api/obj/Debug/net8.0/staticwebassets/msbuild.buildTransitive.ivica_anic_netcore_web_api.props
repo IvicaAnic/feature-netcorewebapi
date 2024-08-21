@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ivica_anic_netcore_web_api.props" />
+</Project>
